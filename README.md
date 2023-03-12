@@ -34,4 +34,3 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mirzayev&show_icons=true&theme=gotham" alt="Abdulloh-Mirzayev" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulloh-Mirzayev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Abdulloh-Mirzayev" /></a> </p>
