@@ -6,7 +6,7 @@ I am a front-end services, web applications, and systems using JavaScript and Re
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-abdulloh_mirzayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/abdulloh-mirzayev-100845186/) 
+[![Linkedin Badge](https://img.shields.io/badge/-abdulloh_mirzayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)]([https://www.linkedin.com/in/abdulloh-mirzayev-100845186/](https://www.linkedin.com/in/abdulloh-mirzayev-a0b4a0294/)) 
 [![Telegram Badge](https://img.shields.io/badge/@abdulloh2006-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/abdulloh2006) 
 [![Youtube Badge](https://img.shields.io/badge/@WebDasturlash-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@Web-Developer)
 
