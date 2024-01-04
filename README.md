@@ -30,5 +30,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mirzayev&show_icons=true&theme=gotham" alt="Abdulloh-Mirzayev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullohmirzayev&show_icons=true&theme=gotham" alt="abdullohmirzayev" />
 
