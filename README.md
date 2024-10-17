@@ -2,33 +2,24 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a front-end services, web applications, and systems using JavaScript and React. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+# 💫 About Me:
+🛠 I'm currently working on:<br>New projects using Next.js, focusing on improving performance and building interactive UIs.<br><br>🤝 I'm looking to collaborate on:<br>My own start-up where I'm developing innovative web solutions. Always open to working with like-minded professionals.<br>🧠 I'm looking for help with:<br>Integrating AI into my projects to enhance functionality and provide smarter user experiences.<br>🌱 I'm currently learning:<br>How to effectively use AI technologies in front-end development and improve project scalability.<br>💬 Ask me about:<br>Anything related to front-end development—whether it’s React, Next.js, or web performance optimization.<br>⚡ Fun fact:<br>I’m always curious about new tech trends, and I love experimenting with new ideas to push the boundaries of web development.
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-abdulloh_mirzayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)]([https://www.linkedin.com/in/abdulloh-mirzayev-100845186/](https://www.linkedin.com/in/abdulloh-mirzayev-a0b4a0294/)) 
-[![Telegram Badge](https://img.shields.io/badge/@abdulloh2006-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/abdulloh2006) 
-[![Youtube Badge](https://img.shields.io/badge/@WebDasturlash-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@Web-Developer)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullohmirzayev__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdulloh-mirzayev-a0b4a0294/) 
 
-  
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdullohmirzayev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdullohmirzayev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullohmirzayev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- :computer: I'm currently working on JavaScript & React
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding
-- :rocket: Always ready to collaborate for Dev Experiments
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdullohmirzayev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## ⚡ Technologies
-![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Image](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=reaktdotjs&logoColor=4FC08D)
-![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=abdullohmirzayev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullohmirzayev&show_icons=true&theme=gotham" alt="abdullohmirzayev" />
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
