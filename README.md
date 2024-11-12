@@ -10,6 +10,6 @@
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git)
 
-![Technologies & Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn,figma,expressjs,mongodb)
+![Technologies & Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,expressjs,mongodb)
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimone&layout=compact)-->
